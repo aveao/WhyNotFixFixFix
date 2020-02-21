@@ -654,7 +654,7 @@ Dialogue: 0,0:11:08.60,0:11:10.85,Default,,0,0,0,,The conference was canceled?
 Dialogue: 0,0:11:08.60,0:11:10.85,SignI,,0,0,0,,{\be1\b0\fscx93.75\fscy88.75\pos(593,110)}Doctor Nakabachi Press Conference
 Dialogue: 0,0:11:11.23,0:11:13.31,Default,,0,0,0,,Makise Kurisu stabbed...
 Dialogue: 0,0:11:17.69,0:11:22.20,Default,,0,0,0,,Was that some kind of hallucination?
-Dialogue: 0,0:11:27.12,0:11:29.37,Default,,0,0,0,,{\an8}@channel
+Dialogue: 0,0:11:27.12,0:11:29.37,Default,,0,0,0,,{\an8}@chan
 Dialogue: 0,0:11:34.59,0:11:36.05,Default,,0,0,0,,John Titor?
 Dialogue: 0,0:11:36.05,0:11:38.96,SignI,,0,0,0,,{\fad(0,300)\be1\fs30\b1\c&H503E34&\t(0,2960,\fs32)\move(983,337,1000,239,0,2737)}A time traveler's here! lololol
 Dialogue: 0,0:11:42.18,0:11:46.43,Default,,0,0,0,,SERN has a monopoly on time machines.
